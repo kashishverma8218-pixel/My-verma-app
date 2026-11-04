@@ -1,7 +1,7 @@
-\'\<!doctype html\>`_
-`&lt;html&gt;`.
-lt;head&gt;`.
+\'\<!DOCTYPE html\>\`
+`&lt;html&gt;
+lt;head&gt;
 (`&lt;/head&gt;`),
-(`&lt;body&gt;`).
+`&lt;h1&gt;MyManch&lt;/h1&gt;
 &lt;/body&gt;`
 lt;/html&gt;`
