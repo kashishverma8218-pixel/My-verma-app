@@ -1,14 +1,28 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body { background-color: lightyellow; }
-    </style>
-</head>
-<body>
-    <img src="7f511b7b-c9b0-4a9c-84cd-e12767ab1458.jpeg.—" alt="App Logo" width="100">
-    <h1>MyManch</h1>
-    <p>आलू मटर</p>
-</body>
-</html>
+```html
 
+&lt;!DOCTYPE html&gt; &lt;html&gt;
+
+&lt;head&gt;
+
+&lt;style&gt;
+
+body
+
+K
+
+{ background-color:
+
+lightyellow; } &lt;/style&gt; &lt;/head&gt; &lt;body&gt; &lt;img
+
+src="7f511b7b-c9b0-4a9c -84cd-e12767ab1458.jpeg"
+
+alt="App Logo" ... width="100"\>
+
+\<h1\>MyManch\</h1\>
+
+\<p\> आलू मटर\</pl>
+
+\</body\>
+
+\</html\>
+```
