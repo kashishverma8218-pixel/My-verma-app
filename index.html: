@@ -4,7 +4,7 @@
 <head>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #fdfcf0 0%, #eef9bf 100%);
             display: flex;
             justify-content: center;
