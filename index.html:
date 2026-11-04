@@ -44,7 +44,7 @@
 <body>
 
 <div class="card">
-    <img src="7f511b7b-c90b0-4a9c-84cd-e12767ab1458.jpeg"t="MyManch Logo" class="profile-img">
+    <img src="7f511b7b-c90b0-4a9c-84cd-e12767ab1458.jpeg"alt="MyManch Logo" class="profile-img">
     <h1>MyManch</h1>
     <p>आलू मटर</p>
 </div>
