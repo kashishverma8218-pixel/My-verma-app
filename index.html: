@@ -1,3 +1,13 @@
+
 <!DOCTYPE html>
-<html\> <head> 
-<style> body { background-color: lightyellow; } </style> <head\> <body> <h1>MyManch</h1>
+<html>
+<head>
+<style>
+body { background-color: lightyellow; }
+</style>
+</head>
+<body>
+<h1>MyManch</h1>
+<p>आलू मटर</p>
+</body>
+</html>
