@@ -1,13 +1,14 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body { background-color: lightyellow; }
-</style>
+    <style>
+        body { background-color: lightyellow; }
+    </style>
 </head>
 <body>
-<h1>MyManch</h1>
-<p>आलू मटर</p>
+    <img src="7f511b7b-c9b0-4a9c-84cd-e12767ab1458.jpeg.—" alt="App Logo" width="100">
+    <h1>MyManch</h1>
+    <p>आलू मटर</p>
 </body>
 </html>
+
